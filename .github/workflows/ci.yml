@@ -24,7 +24,7 @@ jobs:
           - msxdos
 
     container:
-      image: fozztexx/defoogi:1.4.2
+      image: fozztexx/defoogi:1.4.7
 
     steps:
       - uses: actions/checkout@v4
